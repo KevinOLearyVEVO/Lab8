@@ -19,6 +19,7 @@ public class CustomListTest {
     }
 
     @Test
+    // Test
     public void addCityTest(){
         list = MockCityList();
         int listSize = list.getCount();
